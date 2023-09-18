@@ -15,7 +15,7 @@ The main objectives of this project are as follows:
 
 To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine using the command: git clone https://github.com/your-username/project1.git. 📥🖥️
+1. Clone the repository to your local machine using the command: [Repo](https://github.com/Elbhnasy/Number-Plate-RecognitioandTrackingn.git). 📥🖥️
 2. Install the required dependencies by running pip install -r requirements.txt. ⚙️
 3. Open the respective Jupyter Notebooks and execute the code cells to understand the implementation details and run the experiments. 🔬
 
